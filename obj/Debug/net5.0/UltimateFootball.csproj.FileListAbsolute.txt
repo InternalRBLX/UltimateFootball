@@ -1,0 +1,16 @@
+C:\Users\spenc\OneDrive\Documents\GitHub\UltimateFootball\obj\Debug\net5.0\UltimateFootball.csprojAssemblyReference.cache
+C:\Users\spenc\OneDrive\Documents\GitHub\UltimateFootball\obj\Debug\net5.0\UltimateFootball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spenc\OneDrive\Documents\GitHub\UltimateFootball\obj\Debug\net5.0\UltimateFootball.AssemblyInfoInputs.cache
+C:\Users\spenc\OneDrive\Documents\GitHub\UltimateFootball\obj\Debug\net5.0\UltimateFootball.AssemblyInfo.cs
+C:\Users\spenc\OneDrive\Documents\GitHub\UltimateFootball\obj\Debug\net5.0\UltimateFootball.csproj.CoreCompileInputs.cache
+C:\Users\spenc\OneDrive\Documents\GitHub\UltimateFootball\bin\Debug\net5.0\UltimateFootball.exe
+C:\Users\spenc\OneDrive\Documents\GitHub\UltimateFootball\bin\Debug\net5.0\UltimateFootball.deps.json
+C:\Users\spenc\OneDrive\Documents\GitHub\UltimateFootball\bin\Debug\net5.0\UltimateFootball.runtimeconfig.json
+C:\Users\spenc\OneDrive\Documents\GitHub\UltimateFootball\bin\Debug\net5.0\UltimateFootball.runtimeconfig.dev.json
+C:\Users\spenc\OneDrive\Documents\GitHub\UltimateFootball\bin\Debug\net5.0\UltimateFootball.dll
+C:\Users\spenc\OneDrive\Documents\GitHub\UltimateFootball\bin\Debug\net5.0\ref\UltimateFootball.dll
+C:\Users\spenc\OneDrive\Documents\GitHub\UltimateFootball\bin\Debug\net5.0\UltimateFootball.pdb
+C:\Users\spenc\OneDrive\Documents\GitHub\UltimateFootball\obj\Debug\net5.0\UltimateFootball.dll
+C:\Users\spenc\OneDrive\Documents\GitHub\UltimateFootball\obj\Debug\net5.0\ref\UltimateFootball.dll
+C:\Users\spenc\OneDrive\Documents\GitHub\UltimateFootball\obj\Debug\net5.0\UltimateFootball.pdb
+C:\Users\spenc\OneDrive\Documents\GitHub\UltimateFootball\obj\Debug\net5.0\UltimateFootball.genruntimeconfig.cache
